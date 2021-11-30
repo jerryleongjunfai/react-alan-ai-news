@@ -1,10 +1,11 @@
 # Alan AI News
 
-This is a project completely made from React, Material UI and the Alan AI SDK. /
-This app makes use of api requesting from alan into the app. /
-There are many functionalities like getting news sources, categories, terms and top headlines. /
-The user can also ask alan to read the news for them! /
+This is a project completely made from React, Material UI and the Alan AI SDK, it makes use of API request from alan studio into the app. \
+There are many functionalities like getting news sources, categories, terms and top headlines. \
+The user can also ask alan to read the news for them while it also autoscrolls! \
 
+Website Preview: https://react-ai-news.netlify.app/
+Alan Studio project: https://gist.github.com/jerryleongjunfai/1b1213eaa5056deb512eb46a2919c982
 
 
 # Getting Started with Create React App

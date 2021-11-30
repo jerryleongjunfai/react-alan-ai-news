@@ -8,7 +8,12 @@ Website Preview: https://react-ai-news.netlify.app/. \
 Alan Studio project: https://gist.github.com/jerryleongjunfai/1b1213eaa5056deb512eb46a2919c982
 
 ![Screenshot 2021-11-30 130413](https://user-images.githubusercontent.com/80385434/143988848-05a4316a-3946-47c9-a519-aa1cf3d6884a.png)
+
 ![Screenshot 2021-11-30 130455](https://user-images.githubusercontent.com/80385434/143988876-62c2b7d3-0149-4697-8ac2-90cb21dc5a06.png)
+
+# Installing
+Setup Dependencies \
+`npm i @alan-ai/alan-sdk-web @material-ui/core classnames words-to-numbers`
 
 
 # Getting Started with Create React App
